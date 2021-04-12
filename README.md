@@ -14,4 +14,4 @@ Crossing swaps two paths between two selected subjects.
 Parameters that are close to being optimal (producing good results) are proposed in *Main* file.  
 
 ### Examplary outputs of the algorithm
-!()[]
+![](Result.png)
